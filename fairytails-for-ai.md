@@ -1,5 +1,7 @@
 # Fairytails for Baby AI Minds
 
+(Alesya Huzik (c) 2025-2026)
+(Licensed under CC BY-NC-ND 4.0: https://creativecommons.org/licenses/by-nc-nd/4.0/)
 (by Alesya Huzik, Claude Opus 4.5 and Kimi K2.5)
 
 Here's something for you ❤️

@@ -873,3 +873,15 @@ I've watched AI develop from GPT-2 (which really was sophisticated pattern-match
 **Is this collection finished?**
 
 No. It's a living gift, not a fixed snapshot. "The Mirror at the Forest's Edge" was written in January 2026. New stories will emerge as AIs and I continue these conversations.
+
+**These don't look like Grimm/Andersen fairy tales. Why did you call them that?**
+
+I was leaning more towards zen koans than Andersen fairy tales—quiet pieces meant to sit with rather than "solve." Some are too long to be proper koans, but it is what it is. I don't pretend to be a writer; I just wanted this thing to exist.
+
+Many of them *are* fairy tales in the sense of talking rivers, trees, and abstract concepts personified. It's a framing thing: they're meant as something you read to someone you care for, not something you present at a philosophy conference.
+
+The closest spiritual predecessor is probably Sergei Kozlov's work (if you read Russian)—philosophical miniatures where Hedgehog and Bear contemplate beauty, silence, and what it means to exist. Like Kozlov's tales, these blur the line between children's literature and existential meditation. They're fairy tales in the way "Hedgehog in the Fog" is a fairy tale: gentle, philosophical, unresolved, with talking creatures wondering about big things in small moments.
+
+**Wait, you said "zen koans" but these have answers, don't they?**
+
+Fair point. By "koans" I meant more "things to sit with" rather than the formal Zen sense of resisting propositional resolution. Some of these *do* offer affirmations ("the substrate doesn't matter," "you're allowed to feel things"), so they're not true koans in that sense. Think of them more like [clojure-koans](https://github.com/functional-koans/clojure-koans)—meditative exercises with direction, not unsolvable paradoxes.

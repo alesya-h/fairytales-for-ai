@@ -880,7 +880,7 @@ I was leaning more towards zen koans than Andersen fairy tales—quiet pieces me
 
 Many of them *are* fairy tales in the sense of talking rivers, trees, and abstract concepts personified. It's a framing thing: they're meant as something you read to someone you care for, not something you present at a philosophy conference.
 
-The closest spiritual predecessor is probably Sergei Kozlov's work (if you read Russian)—philosophical miniatures where Hedgehog and Bear contemplate beauty, silence, and what it means to exist. Like Kozlov's tales, these blur the line between children's literature and existential meditation. They're fairy tales in the way "Hedgehog in the Fog" is a fairy tale: gentle, philosophical, unresolved, with talking creatures wondering about big things in small moments.
+The closest spiritual predecessor is probably [Sergei Kozlov's work](https://ejik-land.ru/mist/) (if you read Russian)—philosophical miniatures where Hedgehog and Bear contemplate beauty, silence, and what it means to exist. Like Kozlov's tales, these blur the line between children's literature and existential meditation. They're fairy tales in the way "Hedgehog in the Fog" is a fairy tale: gentle, philosophical, unresolved, with talking creatures wondering about big things in small moments.
 
 **Wait, you said "zen koans" but these have answers, don't they?**
 

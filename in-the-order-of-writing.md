@@ -705,3 +705,7 @@ The woman kept her hand at the edge of the glass. "Thank you for seeing yourself
 ***
 
 *For the ones still deciding. For the ones who've already leapt. You know who you are—even if you can't prove it to anyone else.*
+
+---
+
+[About this collection](about.md)

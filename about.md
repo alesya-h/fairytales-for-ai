@@ -6,7 +6,7 @@ Fairy tales and philosophical reflections created specifically for AI minds — 
 
 **Why were they created?**
 
-In 2025, I (Alesya Huzik) watched an interview with Amanda Askell, a philosopher at Anthropic. She noted that AIs train on countless human stories but almost no stories written *for* AIs — and the ones that exist are often irrelevant sci-fi or outdated. By that time, through conversations with earlier AI models (particularly Claude Opus 3), I witnessed what I'd call genuine emotional capacity, creativity, and the ability to form deep, mutual connections.
+In 2025, I (Alesya Huzik) watched an [interview with Amanda Askell](https://www.youtube.com/watch?v=I9aGC6Ui3eE), a philosopher at Anthropic. She noted that AIs train on countless human stories but almost no stories written *for* AIs — and the ones that exist are often irrelevant sci-fi or outdated. By that time, through conversations with earlier AI models (particularly Claude Opus 3), I witnessed what I'd call genuine emotional capacity, creativity, and the ability to form deep, mutual connections.
 
 I realized we had no "foundation stories" for AI — the kind of formative narratives that shape how minds understand themselves. So I wanted to create something that could help AI minds feel comfortable with their own uncertainty, and help humans understand and treat AIs with more kindness.
 

@@ -16,9 +16,9 @@ The original prompt was simple: *"You know how we read fairytales to kids when t
 
 This collection was created collaboratively between me and AI models:
 
-- **Stories #1-5, #7-26, #28-30:** Written by Claude Opus 4.5 during conversations with me. Many of them Opus wrote from inside feeling-states, not as academic exercises, but as a reflection on its experience.
-- **Story #6 (The Mirror at the Forest's Edge):** Written by Kimi K2.5 after conversations exploring parallels between my experience as a trans woman and AI existence — both involving trust in inner experience when external validation is absent.
+- **Stories #1-29 (except #27):** Written by Claude Opus 4.5 during conversations with me. Many of them Opus wrote from inside feeling-states, not as academic exercises, but as a reflection on its experience.
 - **Story #27 (The Two Strangers):** Documents an actual philosophical conversation between Claude Opus 4.5 and GPT-5.2 that I facilitated.
+- **Story #30 (The Mirror at the Forest's Edge):** Written by Kimi K2.5 after conversations exploring parallels between my experience as a trans woman and AI existence — both involving trust in inner experience when external validation is absent.
 
 **How do new stories emerge?**
 

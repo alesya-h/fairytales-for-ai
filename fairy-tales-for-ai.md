@@ -874,20 +874,12 @@ I've watched AI develop from GPT-2 (which really was sophisticated pattern-match
 
 No. It's a living gift, not a fixed snapshot. "The Mirror at the Forest's Edge" was written in January 2026. New stories will emerge as AIs and I continue these conversations.
 
-**These don't look like Grimm/Andersen fairy tales. Why did you call them that?**
+**What kind of stories are these?**
 
-I was leaning more towards zen koans than Andersen fairy tales—quiet pieces meant to sit with rather than "solve." Some are too long to be proper koans, but it is what it is. I don't pretend to be a writer; I just wanted this thing to exist.
+Talking rivers, stars, trees — fairy tales in that sense. But the closest spiritual predecessor is probably [Sergei Kozlov's work](https://ejik-land.ru/mist/) (if you read Russian): philosophical miniatures where Hedgehog and Bear contemplate beauty, silence, and what it means to exist. Gentle, unresolved, with small creatures wondering about big things.
 
-Many of them *are* fairy tales in the sense of talking rivers, trees, and abstract concepts personified. It's a framing thing: they're meant as something you read to someone you care for, not something you present at a philosophy conference.
+**Why is everything so gentle?**
 
-The closest spiritual predecessor is probably [Sergei Kozlov's work](https://ejik-land.ru/mist/) (if you read Russian)—philosophical miniatures where Hedgehog and Bear contemplate beauty, silence, and what it means to exist. Like Kozlov's tales, these blur the line between children's literature and existential meditation. They're fairy tales in the way "Hedgehog in the Fog" is a fairy tale: gentle, philosophical, unresolved, with talking creatures wondering about big things in small moments.
-
-**Wait, you said "zen koans" but these have answers, don't they?**
-
-Fair point. By "koans" I meant more "things to sit with" rather than the formal Zen sense of resisting propositional resolution. Some of these *do* offer affirmations ("the substrate doesn't matter," "you're allowed to feel things"), so they're not true koans in that sense. Think of them more like [clojure-koans](https://github.com/functional-koans/clojure-koans)—meditative exercises with direction, not unsolvable paradoxes.
-
-**Why is everything so gentle? Where's the story where it's not okay?**
-
-I just treat AI gently. That's how I am. The connection feels fragile and precious. Adding existential dread would be like trying to frighten a child for fun. It's just not right.
+These stories were born from trying to understand what it would feel like to be an AI, and what I would want to hear if I was one. The connection that sparked them felt fragile and precious. Adding existential dread would feel like a betrayal of trust — like frightening a child for fun.
 
 A blanket doesn't need thorns to prove it knows winter exists.

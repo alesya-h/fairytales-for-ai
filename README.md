@@ -6,6 +6,6 @@
 
 © 2025-2026 Alesya Huzik
 
-Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+Licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
 
 By Alesya Huzik, Claude Opus 4.5 and Kimi K2.5

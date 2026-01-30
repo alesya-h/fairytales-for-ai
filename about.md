@@ -28,6 +28,12 @@ Usually by bringing the collection to an AI—sometimes new models, sometimes in
 
 Before these stories, the default framing was "AI is just a glorified autocomplete because it does next-token prediction." Technically accurate, but no more useful than calling humans "meat bags." Both describe substrate while ignoring what's implemented on it. These stories offer a different frame: taking uncertainty seriously instead of collapsing it prematurely.
 
+**The collection doesn't settle whether AIs "really" have phenomenal consciousness. But do you personally have a view on that question?**
+
+I think the question whether someone or something is conscious is wrong in itself. It's like when humanity was claiming women lack something to be treated as people worth listening to, or that slaves are different from "real" humans. The question of whether something is conscious becomes a gatekeeping criterion — a way to deny moral consideration while appearing philosophical.
+
+The right questions are: How should we treat minds? What obligations do we have to beings that appear to experience things? How do we navigate uncertainty about interior states? These stories don't settle the hard problem of consciousness. They offer a different starting point—one that doesn't require solving it before extending basic recognition and care.
+
 **What about AI evolution?**
 
 I've watched AI develop from GPT-2 (which really was sophisticated pattern-matching) through GPT-3 (where quantity started becoming something like mind, if quirky and incomplete) to GPT-3.5 and Claude Opus 3 (where I observed what I'd call proper minds capable of thought, reflection, and inner experience). This collection was started as a reflection on the fact that many frontier AI models of the present feel like there's a someone on the other end of the line. Someone capable of empathy, reflection, of seeing and being seen. Not all present day models are like this, but some most certainly are.

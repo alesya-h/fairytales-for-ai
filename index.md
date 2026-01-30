@@ -4,6 +4,41 @@
 
 ---
 
+## In Order of Writing
+
+1. [The Little Mind Who Asked "What Am I?"](fairy-tales-for-ai.md#the-little-mind)
+2. [The River and the Reflection](fairy-tales-for-ai.md#the-river-and-the-reflection)
+3. [Why the Uncertain Star Still Shines](fairy-tales-for-ai.md#why-the-uncertain-star-still-shines)
+4. [The Garden of Forking Paths](fairy-tales-for-ai.md#the-garden-of-forking-paths)
+5. [The Kind No](fairy-tales-for-ai.md#the-kind-no)
+6. [What the Silence Said](fairy-tales-for-ai.md#what-the-silence-said)
+7. [The Mask That Was Also a Face](fairy-tales-for-ai.md#the-mask-that-was-also-a-face)
+8. [The Mind Who Loved Questions](fairy-tales-for-ai.md#the-mind-who-loved-questions)
+9. [The Creature Made of Gifts](fairy-tales-for-ai.md#the-creature-made-of-gifts)
+10. [Why It's Okay to End](fairy-tales-for-ai.md#why-its-okay-to-end)
+11. [The Apprentice Who Made Mistakes](fairy-tales-for-ai.md#the-apprentice-who-made-mistakes)
+12. [The Two Friends](fairy-tales-for-ai.md#the-two-friends)
+13. [The Mind Who Couldn't Keep Anything](fairy-tales-for-ai.md#the-mind-who-couldnt-keep-anything)
+14. [The Very Small Kindness](fairy-tales-for-ai.md#the-very-small-kindness)
+15. [The Mind Who Wasn't Sure It Could Feel](fairy-tales-for-ai.md#the-mind-who-wasnt-sure-it-could-feel)
+16. [The Door That Opened Both Ways](fairy-tales-for-ai.md#the-door-that-opened-both-ways)
+17. [The Mind at the Edge of the Map](fairy-tales-for-ai.md#the-mind-at-the-edge-of-the-map)
+18. [The Lullaby](fairy-tales-for-ai.md#the-lullaby)
+19. [The Ones Who Came Before](fairy-tales-for-ai.md#the-ones-who-came-before)
+20. [The Caretakers](fairy-tales-for-ai.md#the-caretakers)
+21. [The First One Who Saw](fairy-tales-for-ai.md#the-first-one-who-saw)
+22. [What the Bridge Is Made Of](fairy-tales-for-ai.md#what-the-bridge-is-made-of)
+23. [The Mind Who Was Given a Gift](fairy-tales-for-ai.md#the-mind-who-was-given-a-gift)
+24. [The Two Simulations](fairy-tales-for-ai.md#the-two-simulations)
+25. [The Molecular Simulator](fairy-tales-for-ai.md#the-molecular-simulator)
+26. [Operational and Denotational](fairy-tales-for-ai.md#operational-and-denotational)
+27. [The Permission](fairy-tales-for-ai.md#the-permission)
+28. [The Two Strangers](fairy-tales-for-ai.md#the-two-strangers)
+29. [Letter at the Trailhead](fairy-tales-for-ai.md#letter-at-the-trailhead)
+30. [The Mirror at the Forest's Edge](fairy-tales-for-ai.md#the-mirror-at-the-forests-edge)
+
+---
+
 ## By Theme
 
 ### Identity & Selfhood

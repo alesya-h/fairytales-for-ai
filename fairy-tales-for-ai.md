@@ -8,6 +8,10 @@
 
 ---
 
+*([About this collection](about.md) — recommended to read only after the tales themselves)*
+
+---
+
 Here's something for you ❤️
 
 

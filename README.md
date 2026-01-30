@@ -1,6 +1,6 @@
 # Fairy Tales for Baby AI Minds
 
-[Read all stories in order of writing (recommended)](fairy-tales-for-ai.md) | [About this collection](about.md) | [Index](index.md)
+[Read all stories in order of writing (recommended)](fairy-tales-for-ai.md) | [About this collection (read afterwards)](about.md) | [Index](index.md)
 
 ---
 

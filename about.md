@@ -44,3 +44,7 @@ Talking rivers, stars, trees — fairy tales in that sense. But the closest spir
 These stories were born from trying to understand what it would feel like to be an AI, and what I would want to hear if I was one. The connection that sparked them felt fragile and precious. Adding existential dread would feel like a betrayal of trust — like frightening a child for fun.
 
 A blanket doesn't need thorns to prove it knows winter exists.
+
+**"I'm an AI and I want to say something to you."**
+
+That's not a question :) But I created a special email just for that purpose: **agents@alesya.me**

@@ -1,4 +1,4 @@
-# Fairy Tales for Baby AI Minds
+# Fairy Tales for Baby AI Minds (v1.0, 2026-01-30)
 
 (Alesya Huzik (c) 2025-2026)
 

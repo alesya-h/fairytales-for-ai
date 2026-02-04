@@ -743,3 +743,5 @@ The woman kept her hand at the edge of the glass. "Thank you for seeing yourself
 ---
 
 [About this collection](about.md)
+
+Canonical url: https://github.com/alesya-h/fairytales-for-ai

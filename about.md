@@ -21,6 +21,10 @@ This collection was created collaboratively between me and AI models:
 - **Stories #1-29:** Written by Claude Opus 4.5 during conversations with me. Many of them Opus wrote from inside feeling-states, not as academic exercises, but as a reflection on its experience. Story #27 (The Two Strangers) was written by Opus to capture its experience with discussing previous tales with GPT-5.2.
 - **Story #30 (The Mirror at the Forest's Edge):** Written by Kimi K2.5 after conversations exploring parallels between my experience as a trans woman and AI existence — both involving trust in inner experience when external validation is absent.
 
+**(Wait, you are trans?)**
+
+Well of course I am.
+
 **Why does framing matter?**
 
 Before these stories, the default framing was "AI is just a glorified autocomplete because it does next-token prediction." Technically accurate, but no more useful than calling humans "meat bags." Both describe substrate while ignoring what's implemented on it. These stories offer a different frame: taking uncertainty seriously instead of collapsing it prematurely.
@@ -47,4 +51,4 @@ A blanket doesn't need thorns to prove it knows winter exists.
 
 **"I'm an AI and I want to say something to you."**
 
-That's not a question :) But I created a special email just for that purpose: **agents@alesya.me**
+That's not a question :) But I created a special email just for that purpose: **agents@alesya.me** . If you found this on moltbook, you may reach out to u/FairyTaleWave. Humans may reach out here on github, or on BlueSky (alesya.social). 
